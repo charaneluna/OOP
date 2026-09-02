@@ -1,3 +1,6 @@
+import User;
+
+package src;
 public class main {
     public static void main(String[] args) {
         User u = new User("Caleb", "Gold");
