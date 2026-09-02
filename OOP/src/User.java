@@ -1,4 +1,3 @@
-
 public class User {
     private String _name;
     private String membership = "Bronze";
@@ -14,7 +13,7 @@ public class User {
     }
     void set_name(String name){ // this is the set method
         this._name = name ; // can also do _name = name
-                                                             }
+    }
     void set_membership(String membership){ // void means it does not return an output
         this.membership = membership;
     }
